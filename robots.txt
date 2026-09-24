@@ -1,2 +1,4 @@
+# Project-level reference only; origin robots.txt controls crawling.
 User-agent: *
 Allow: /
+Sitemap: https://zhangcengyue-ai.github.io/rijian-oral-health/sitemap.xml
